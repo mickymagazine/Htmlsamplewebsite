@@ -1,0 +1,26 @@
+body {
+    position: relative;
+}
+#home {
+	padding-top:50px;
+	height:1000px;
+	color: #fff; 
+	width:100% ; 
+}
+#myabout {
+	padding-top:100px;
+	height:1000px;
+	color: #00000; 
+}
+
+
+.box-1 {
+      width: 100%;
+      min-height: 500px;
+      max-height: 1100px;
+      background: url('../images/rome.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
